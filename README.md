@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="generator" content="CoffeeCup HTML Editor (www.coffeecup.com)">
+    <meta name="dcterms.created" content="Fri, 14 Feb 2025 14:41:50 GMT">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>Kingmakers Records Worldwide</title>
+    <link rel="stylesheet" href="KMRW {CSS}.css">
+    <!--[if IE]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <h1>Kingmakers Records Worldwide</h1>
+      <p>Your Gateway to the Music World</p>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#artists">Artists</a></li>
+        <li><a href="#releases">Releases</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about" class="hero">
+    <div class="hero-content">
+      <h2>Leading the Charge in the Music Industry</h2>
+      <p>Kingmakers Records Worldwide is at the forefront of shaping music culture across the globe. We nurture talent, break records, and redefine the industry.</p>
+    </div>
+  </section>
+
+  <section id="artists" class="section">
+    <h2>Our Artists</h2>
+    <div class="artist-gallery">
+      <div class="artist-card">
+        <img src="c:\Users\USER\Documents\CoffeeCup Software\HTML Editor\Projects\New Project\IMG_20250116_024453_613.jpg" alt="Artist 1">
+        <h3>KINGDON9INE</h3>
+        <p>Genre: Hip-hop & E.D.M</p>
+      </div>
+      <div class="artist-card">
+        <img src="artist2.jpg" alt="Artist 2">
+        <h3>Artist Name 2</h3>
+        <p>Genre: Hip-Hop</p>
+      </div>
+      <div class="artist-card">
+        <img src="artist3.jpg" alt="Artist 3">
+        <h3>Artist Name 3</h3>
+        <p>Genre: Rock</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="releases" class="section">
+    <h2>Latest Releases</h2>
+    <div class="release-list">
+      <div class="release">
+        <img src="album1.jpg" alt="Album 1">
+        <h3>IAMKTM</h3>
+        <p>Release Date: January 2025</p>
+      </div>
+      <div class="release">
+        <img src="album2.jpg" alt="Album 2">
+        <h3>Album Title 2</h3>
+        <p>Release Date: December 2024</p>
+      </div>
+      <div class="release">
+        <img src="album3.jpg" alt="Album 3">
+        <h3>Album Title 3</h3>
+        <p>Release Date: November 2024</p>
+      </div>
+    </div>
+  </section>
+
+  <footer id="contact">
+    <div class="footer-content">
+      <p>&copy; 2025 Kingmakers Records Worldwide | All Rights Reserved</p>
+      <p>Contact Us: info@kingmakersrecords.com</p>
+    </div>
+  </footer>
+</body>
+</html>
+
+  </body>
+</html>
